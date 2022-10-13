@@ -9,7 +9,7 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/IngeligenciaArtificial%20%26%20OCR-brightgreen" />
-  <img src="https://img.shields.io/badge/colombia%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Vivo%20Colombia-success" />
   <img src="https://img.shields.io/badge/LenguajeEspañol%20%26%20Ingles-brightgreen" />
 </p>
 <hr>
