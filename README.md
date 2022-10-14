@@ -27,9 +27,10 @@
 
 <p align="center">
   <em>
-    Hello, I am Jharol Perez a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>university Luis Amigo</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    Hello, I am Jharol Perez a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>university Luis Amigo</b>, Colombia (" Systems Engineer ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>
+artificial intelligence and web development</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>OCR</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -39,9 +40,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently learning about **deep learning**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ I am a responsible, dynamic person, easy to learn and with skills in the field of computing more oriented towards software development, application support. 😊 <br>
+✔ 5 years of experience in positions related to application support and implementation of solutions. 🥰<br>
+✔ Experience in AJAX technologies, Jquery, PHP, Python, FrameworkYii, HTML5, Bootstrap, css JavaScript, c#, ASP.NET. Knowledge in construction of web services, API.<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
